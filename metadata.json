@@ -1,0 +1,5 @@
+{
+  "name": "AI Fluid Dynamics Simulator",
+  "description": "A conceptual fluid dynamics analysis application, inspired by Ansys, that uses AI to simulate and visualize fluid flow based on user-defined parameters.",
+  "requestFramePermissions": []
+}
